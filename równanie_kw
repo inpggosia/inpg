@@ -1,6 +1,7 @@
 #include<math.h>
 #include<iostream.h>
 
+int g;
 int a,b,c;
 int delta(int a, int b,int c)
 {return b*b-4*a*c;}
