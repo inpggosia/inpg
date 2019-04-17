@@ -1,4 +1,4 @@
-#include <iostream.h>
+#include <iostream.h> // jako zmiane dodaje komentarz w tej linii
 #include <stdio.h>
 
 int d;
