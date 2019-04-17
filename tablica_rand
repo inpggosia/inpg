@@ -2,6 +2,10 @@
 #include <iostream>
 #include <ctime>
 
+
+
+int u;
+
 using namespace std;
 
 int main(int argc, char *argv[])
