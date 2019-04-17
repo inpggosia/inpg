@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <string.h>
 
+int p;
+
 struct Rzym_t
 {
   char *s;
