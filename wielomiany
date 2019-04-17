@@ -2,6 +2,8 @@
 #include <iostream>
 #include <math.h>
 
+int h;
+
 int n;
 double x;
 const int M=200;
