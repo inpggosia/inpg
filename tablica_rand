@@ -2,6 +2,8 @@
 #include <iostream>
 #include <ctime>
 
+int c;
+
 using namespace std;
 
 int main(int argc, char *argv[])
